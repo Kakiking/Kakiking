@@ -4,7 +4,7 @@ I write software in my spare time :)
 
 I use Linux as my main OS: ![Manjaro](https://img.shields.io/badge/manjaro-%2300599C.svg?style=flat&logo=manjaro&logoColor=white&color=green)
 
-#### Languages I use:
+#### Languages I am currently using:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white&color=ffd343&labelColor=2b5b84) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 #### Languages I plan on trying out:
