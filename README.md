@@ -11,7 +11,7 @@ I use Linux as my main OS: ![Manjaro](https://img.shields.io/badge/manjaro-%2300
 ![Rust](https://img.shields.io/badge/rust-%2300599C.svg?style=for-the-badge&logo=rust&logoColor=white&color=orange) ![C#](https://img.shields.io/badge/c%23-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white&color=239120) ![Go](https://img.shields.io/badge/go-%2300599C.svg?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
 
 #### Projects:
-- I'm currently working on [ThePeacockProject](https://github.com/thepeacockproject/) (mostly writing scripts, and reverse engineering)
+- I sometimes work on [ThePeacockProject](https://github.com/thepeacockproject/), however I'm actively working on other projects which I plan to open-source once finished.
 
 #### I enjoy:
 - Trying out new libraries and languages
